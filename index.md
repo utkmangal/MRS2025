@@ -6,14 +6,14 @@
 </header>
 
 
-<div style="display:flex;align-items:center;justify-content:space-between;gap:20px;">
+<div style="display:flex;align-items:center;justify-content:space-between;gap:20px;margin-bottom:40px;">
 	<img src="yonsei_logo.png" alt="Yonsei University" style="height:80px;width:auto;margin-left:10px;margin-right:10px;" />
 	<h2 style="margin:100;flex:1;text-align:center;font-size:28px;line-height:30px;">Dynamic Abiotic Network for Modulating Microbial Communities and Reducing Virulence in Healing Tissues</h2>
 	<img src="YUCD110_logo.png" alt="YUCD110" style="height:80px;width:auto;margin-left:10px;margin-right:10px;" />
 </div>
 
 
-<div style="text-align:center;">
+<div style="text-align:center;margin-bottom:40px;">
 
 Utkarsh Mangal<sup>1</sup>, Jae-Sung Kwon<sup>2</sup>, Dohyun Kim<sup>3</sup>, Sung-Hwan Choi<sup>4</sup>
 
