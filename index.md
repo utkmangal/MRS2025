@@ -13,26 +13,26 @@
 </div>
 
 
-**Authors:** Utkarsh Mangal<sup>1</sup>, Jae-Sung Kwon<sup>2</sup>, Dohyun Kim<sup>3</sup>, Sung-Hwan Choi<sup>4</sup>
+<div style="text-align:center;">
 
-**Affiliation:**<sup>1</sup> Department of Oral Biology, <sup>2</sup> Department and Research Institute of Dental Biomaterials and Bioengineering, <sup>3</sup> Department of Conservative Dentistry, Oral Science Research Center, <sup>4</sup> Department of Orthodontics and Institute of Craniofacial Deformities
-Yonsei University College of Dentistry, Seoul, Republic of Korea
+Utkarsh Mangal<sup>1</sup>, Jae-Sung Kwon<sup>2</sup>, Dohyun Kim<sup>3</sup>, Sung-Hwan Choi<sup>4</sup>
 
+<sup>1</sup> Department of Oral Biology, <sup>2</sup> Department and Research Institute of Dental Biomaterials and Bioengineering, <sup>3</sup> Department of Conservative Dentistry, Oral Science Research Center, <sup>4</sup> Department of Orthodontics and Institute of Craniofacial Deformities
+**Yonsei University College of Dentistry, Seoul, Republic of Korea**
+</div>
 
----
 
 **Abstract**
     Healing in oral tissues—particularly in the presence of comorbidities or advanced age—requires not only managing host tissue responses but also reshaping the resident microbiome. Currentbiomaterials often fall short in guiding microbial behavior, especially under anaerobic, inflammation-proneconditions dominated by Gram-negative pathogens.
-    We introduce DYNAMO—a Dynamic Abiotic Network for Modulating Microbial Communities
-—engineered tosuppress virulence-associated bacteria while maintaining a favorable microbial balance. Inspired by the nativemucosal phospholipid interface, this system integrates a collagen scaffold with a zwitterionic polymer matrixthat forms a soft, hydrated, and electrostatically dynamic interface. The resulting microenvironment resistsmicrobial adhesion, resists aggregation, and promotes planktonic dispersion of microorganisms.
+    We introduce DYNAMO—a Dynamic Abiotic Network for Modulating Microbial Communities—engineered tosuppress virulence-associated bacteria while maintaining a favorable microbial balance. Inspired by the nativemucosal phospholipid interface, this system integrates a collagen scaffold with a zwitterionic polymer matrixthat forms a soft, hydrated, and electrostatically dynamic interface. The resulting microenvironment resistsmicrobial adhesion, resists aggregation, and promotes planktonic dispersion of microorganisms.
     In a human-saliva oral microbiome model, DYNAMO resists microbial biomass penetration and modulatescommunity structure, showing selective suppression of Gram-negative taxa. Metagenomic profiling confirmed downregulation of virulence genes (e.g.,lpxC, luxS, fbp54 ) and pathways involved in lipopolysaccharide (LPS) biosynthesis, quorum sensing, and stress survival. Host fibroblast assays under LPS challenge revealedreduced inflammatory cytokine release and enhanced regenerative signaling, supporting both microbiomecompatibility and immunomodulatory benefit.
     Importantly, DYNAMO functions without antimicrobial agents or live bioactives, relying instead on biophysicalstimuli to modulate microbial ecology. Its efficacy under low-oxygen conditions, physical resilience, andmicrobial selectivity make it a promising scaffold for wound healing applications where microbiome balance iscritical.
 This study positions DYNAMO as an abiotic interface for oral microbiome modulation, offering an antibiotic-freestrategy to control virulence and promote tissue regeneration.
 
-KEYWORDS: Performance/Functionality/biomedical, Composition & Microstructure/Material Type/biomaterial,Performance/Material Form/biofilm.
+**KEYWORDS:** Performance/Functionality/biomedical, Composition & Microstructure/Material Type/biomaterial,Performance/Material Form/biofilm.
 
 
-<div style="text-align:center;margin-top:60px;">
+<div style="text-align:center;margin-top:60px;margin-bottom:60px;">
 	<h3 style="margin-bottom:20px;color:#333;">Get in Touch</h3>
 	<div style="display:flex;justify-content:space-around;">
 		<a href="https://www.researchgate.net/profile/Utkarsh-Mangal" target="_blank" style="text-decoration:none;">
@@ -44,7 +44,10 @@ KEYWORDS: Performance/Functionality/biomedical, Composition & Microstructure/Mat
 	</div>
 </div>
 
+----
+
 **References**
+
 
 1. K. Hou, Z.-X. Wu, X.-Y. Chen, J.-Q. Wang, D. Zhang, C. Xiao, D. Zhu, J. B. Koya, L. Wei, J. Li, Microbiota in health and diseases. *Signal transduction and targeted therapy* **7**, 1-28 (2022).
 
@@ -198,3 +201,4 @@ KEYWORDS: Performance/Functionality/biomedical, Composition & Microstructure/Mat
 
 76. A. Weimann, K. Mooren, J. Frank, P. B. Pope, A. Bremges, A. C. McHardy, From genomes to phenotypes: Traitar, the microbial trait analyzer. *MSystems* **1**, 10.1128/msystems. 00101-00116 (2016).
 
+----
